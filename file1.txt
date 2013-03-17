@@ -1,3 +1,4 @@
 file1.txt
 row1
 row2
+row3
